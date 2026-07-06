@@ -14,8 +14,11 @@ public static void Main(string[] args)
         /* Marks marks = new Marks();
         marks.Points( 34, 55, 70 ); */
 
-        Circle circle = new Circle();
-        circle.Input(9.0, 5.0);
+       /* Circle circle = new Circle();
+        circle.Input(9.0, 5.0);*/
+
+         Perimeter perimeter = new Perimeter();
+        perimeter.Value (20, 10);
 
 
     }
