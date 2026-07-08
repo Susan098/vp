@@ -17,9 +17,13 @@ public static void Main(string[] args)
        /* Circle circle = new Circle();
         circle.Input(9.0, 5.0);*/
 
-         Perimeter perimeter = new Perimeter();
-        perimeter.Value (20, 10);
-
+       /*  Perimeter perimeter = new Perimeter();
+        perimeter.Value (20, 10);*/
+        /* Swap swap = new Swap();
+         swap.Changing_value(30,20);*/
+         
+ Sintrest sintrest = new Sintrest();
+ sintrest.Intrest(100000, 2 , 12);
 
     }
 }
