@@ -19,11 +19,17 @@ public static void Main(string[] args)
 
        /*  Perimeter perimeter = new Perimeter();
         perimeter.Value (20, 10);*/
+
         /* Swap swap = new Swap();
          swap.Changing_value(30,20);*/
          
- Sintrest sintrest = new Sintrest();
- sintrest.Intrest(100000, 2 , 12);
+ /*Sintrest sintrest = new Sintrest();
+ sintrest.Intrest(100000, 2 , 12);*/
 
+ /*Question6 question6 = new Question6();
+ question6.swap(20,21);*/
+
+ Question9 question9 = new Question9();
+ question9.average(100,100,100,100,100);
     }
 }
